@@ -8,3 +8,6 @@ Numpy and pandas
 
 
 Applicant.csv file contains age, salary, address, etc.
+
+## This model gives error messages, due to deprecated functions.
+## It would be resolved in due time.
