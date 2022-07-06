@@ -16,4 +16,5 @@ from keras.layers import Dense, Dropout, Activation, Flatten
 from keras.layers import Convolution2D, MaxPooling2D
 from keras.util import np_util
 
-
+## DATASET
+from keras.datasets import mnist (MNIST dataset consist of 28c28 size image of handwritten digits)
